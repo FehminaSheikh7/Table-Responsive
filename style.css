@@ -1,0 +1,33 @@
+.Tab {
+    border: 2px solid rgb(4, 112, 9);
+    border-collapse: collapse;
+    width: 600px;
+    margin: 100px auto; 
+    text-align: center;
+    
+}
+
+.Tab th, .Tab td {
+    border: 2px solid rgb(4, 112, 9);
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.Tab th {
+    font-weight: bold;
+}
+.time{
+    background-color: rgb(239, 255, 10);
+}
+.two{
+    background-color: rgb(250, 29, 114);
+}
+.five{
+    background-color: rgb(111, 111, 248);
+}
+.am{
+    background-color: rgb(245, 65, 185);
+}
+.semi{
+    background-color: aqua;
+}
